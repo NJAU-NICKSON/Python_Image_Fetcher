@@ -18,9 +18,9 @@ It connects to the global community of the internet, respectfully fetches images
 
 ## Installation
 1. Clone this repository:
-   ```bash
+```bash
    git clone https://github.com/NJAU-NICKSON/Python_Image_Fetcher.git
-   cd Ubuntu_Requests
+   cd PYTHON_IMAGE_FETCHER
 ````
 
 2. Install required dependencies:
@@ -28,7 +28,6 @@ It connects to the global community of the internet, respectfully fetches images
    ```bash
    pip install requests
    ```
-
 ---
 
 ## Usage
